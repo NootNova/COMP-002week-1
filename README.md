@@ -11,4 +11,10 @@ Node.js activity:
 |After: | 20 minutes | 20 minutes | n/a
 |Ready: | true | true | n/a
 
-Change:
+Change: "let practiceMinutes = 15 to 10"
+Change: "practiceMinutes = practiceMinutes + 5 to  +7
+
+|Course: | COMP 2 | COMP 2 | n/a
+|Before: | 10 minutes | 10 minutes | n/a
+|After: | 17 minutes | 17 minutes | n/a
+|Ready: | true | ture | n/a
