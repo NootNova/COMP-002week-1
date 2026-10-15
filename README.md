@@ -18,3 +18,11 @@ Change: "practiceMinutes = practiceMinutes + 5 to  +7
 |Before: | 10 minutes | 10 minutes | n/a
 |After: | 17 minutes | 17 minutes | n/a
 |Ready: | true | ture | n/a
+
+Change: added "let assignmentsDue = 3 and console log = assignments due"
+
+|Course: | COMP 2 | COMP 2 | n/a
+|Assignments Due: | 3 | 3 | n/a
+|Before: | 10 minutes | 10 minutes | n/a
+|After: | 17 minutes | 17 minutes | n/a
+|Ready: | true | true | n/a
