@@ -26,3 +26,5 @@ Change: added "let assignmentsDue = 3 and console log = assignments due"
 |Before: | 10 minutes | 10 minutes | n/a
 |After: | 17 minutes | 17 minutes | n/a
 |Ready: | true | true | n/a
+
+The "let" fits changing minutes because 
